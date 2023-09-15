@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andre</h1>
 <h3 align="center">Game developer | Web developer | Software developer</h3>
-<img align="right" alt="Coding" width="300" src="https://yt3.ggpht.com/ytc/AOPolaTzo4cHdMhyCHsN-9XA89HwiXisdxu8ln9VQq-q=s600-c-k-c0x00ffffff-no-rj-rp-mo">
+<img align="right" alt="Coding" width="120" src="https://i.ibb.co/YTbb0tV/image.png">
 
 - 🔭 I’m currently working on [Simple Click RPG](https://play.google.com/store/apps/details?id=com.AcaiSlayerStudio.SimpleClickRpg&pli=1)
 
