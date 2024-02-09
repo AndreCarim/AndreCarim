@@ -2,7 +2,9 @@
 <h3 align="center">Game developer | Web developer | Software developer</h3>
 <img align="right" alt="Coding" width="120" src="https://i.ibb.co/YTbb0tV/image.png">
 
-- 🔭 I’m currently working on [Simple Click RPG](https://play.google.com/store/apps/details?id=com.AcaiSlayerStudio.SimpleClickRpg&pli=1)
+- I am currently working on Island harbour(Steam game)
+- 
+- 🔭 My most recent game: [Simple Click RPG](https://play.google.com/store/apps/details?id=com.AcaiSlayerStudio.SimpleClickRpg&pli=1)
 
 - 📫 How to reach me **dedehcarim@gmail.com**
 
