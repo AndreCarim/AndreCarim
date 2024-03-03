@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andre</h1>
-<h3 align="center">Game developer | Web developer | Software developer</h3>
+<h3 align="center">Game developer</h3>
 <img align="right" alt="Coding" width="120" src="https://i.ibb.co/YTbb0tV/image.png">
 
 - I am currently working on Island harbour(Steam game)
